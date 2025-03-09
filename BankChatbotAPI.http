@@ -1,0 +1,6 @@
+@BankChatbotAPI_HostAddress = http://localhost:5096
+
+GET {{BankChatbotAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
